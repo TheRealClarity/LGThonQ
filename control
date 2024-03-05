@@ -1,0 +1,10 @@
+Package: com.trc.lgthonq
+Name: LGThonQ
+Depends: mobilesubstrate, firmware (>= 15.0)
+Priority: optional
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Fuck LG
+Maintainer: Clarity
+Author: Clarity
+Section: Tweaks
